@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Identity', // <title>
+  siteTitle: 'Dirtix - Piotr Brudny', // <title>
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,29 +8,29 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  authorName: 'Piotr Brudny',
+  heading: 'Full-stack Developer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/pbrudny',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/pbrudny',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/PiotrBrudny',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:pbrudny@gmail.com',
     },
   ],
 };

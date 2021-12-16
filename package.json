@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-identity",
+  "name": "dirtix-personal-token",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Identity by HTML5 UP",
+  "description": "Dirtix - Personal token of Piotr Brudny",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-identity.git"
+    "url": "git+https://github.com/pbrudny/dirtix.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Piotr Brudny",
+    "email": "pbrudny0@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-identity/issues"
+    "url": "https://github.com/pbrudny/dirtix/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-identity#readme"
+  "homepage": "https://github.com/pbrudny/dirtix#readme"
 }
